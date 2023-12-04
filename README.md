@@ -72,6 +72,7 @@ The analysis revealed valuable insights into the coffee shop's performance:
 - United States represents largest market ($35K sales)
 
 ## Dashboard
+![Coffee Shop Dashboard](https://github.com/SaifSiddique009/Coffee_Shop_Analysis_Project_Using_Excel/blob/main/Dashboard.png)
 
 
 
